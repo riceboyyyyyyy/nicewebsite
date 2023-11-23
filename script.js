@@ -3,7 +3,11 @@ imgs = ["guy (1).jpg", "guy (1).PNG", "guy (2).jpg", "guy (2).PNG", "guy (3).jpg
         "guy (6).jpg", "guy (6).PNG", "guy (7).jpg", "guy (7).PNG", "guy (8).jpg", 
         "guy (8).PNG", "guy (9).jpg", "guy (9).PNG", "guy (10).jpg", "guy (11).jpg", 
         "guy (12).jpg", "guy (13).jpg", "guy (14).jpg", "guy (15).JPG", "guy (16).JPG", 
-        "guy (16).JPG", "guy (17).JPG", "guy (18).jpg", "pic (5).PNG", "pic (10).PNG"]
+        "guy (16).JPG", "guy (17).JPG", "guy (18).jpg", "pic (5).PNG", "pic (10).PNG", 
+        "guy new (1)", "guy new (2)", "guy new (3)", "guy new (4)", "guy new (5)", 
+       "guy new (6)", "guy new (7)", "guy new (8)", "guy new (9)", "guy new (10)", 
+       "guy new (11)", "guy new (12)", "guy new (13)", "guy new (14)", "guy new (15)", 
+       "guy new (16)", "guy new (17)", "guy new (18)"]
 
 msgs = ["u got this!!!", "i love u <33", "i always believe in u", "no giving up!!", 
         "work hard and u can have loki", "im very proud of u no matter what", 
