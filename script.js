@@ -7,7 +7,7 @@ imgs = ["guy (1).jpg", "guy (1).PNG", "guy (2).jpg", "guy (2).PNG", "guy (3).jpg
         "guy new (1).jpg", "guy new (2).jpg", "guy new (3).jpg", "guy new (4).jpg", "guy new (5).jpg", 
        "guy new (6).jpg", "guy new (7).jpg", "guy new (8).jpg", "guy new (9).jpg", "guy new (10).jpg", 
        "guy new (11).jpg", "guy new (12).jpg", "guy new (13).jpg", "guy new (14).jpg", "guy new (15).jpg", 
-       "guy new (16).JPG", "guy new (17).jpg", "guy new (18).jpg"]
+       "guy new (16).jpg", "guy new (17).jpg", "guy new (18).jpg"]
 
 msgs = ["u got this!!!", "i love u <33", "i always believe in u", "no giving up!!", 
         "work hard and u can have loki", "im very proud of u no matter what", 
